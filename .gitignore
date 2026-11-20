@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+classifier.joblib
+test_model.joblib
+.env
+.ipynb_checkpoints/
